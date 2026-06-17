@@ -1,4 +1,6 @@
-![Faith In Focus](screenshots/main-menu.png)
+<p align="center">
+  <img src="screenshots/mainmenu.png" width="900">
+</p>
 
 # Faith In Focus
 
