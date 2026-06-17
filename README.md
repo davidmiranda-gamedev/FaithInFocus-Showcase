@@ -125,6 +125,8 @@ Watch a short gameplay demonstration showcasing the story mode, quizzes, cutscen
 - Game Design
 - Educational Game Development
 - PlayerPrefs Save System
+- Android and Windows Build Pipeline
+- Git & GitHub
 
 ---
 
@@ -152,6 +154,19 @@ As the sole developer of Faith In Focus, I was responsible for:
 - Cloud Save Support
 - Additional Character Interactions
 - Enhanced Educational Content
+
+---
+
+## Technical Challenges
+
+During development, several technical systems were designed and implemented:
+
+- Story progression system
+- Interactive quiz framework
+- Persistent save data using PlayerPrefs
+- Educational mini-game architecture
+- Cross-platform deployment for Android and Windows
+- Responsive UI scaling across multiple resolutions
 
 ---
 
