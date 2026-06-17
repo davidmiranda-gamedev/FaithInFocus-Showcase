@@ -76,7 +76,7 @@ Available on Android, Windows, and Web platforms.
 
 ### Adventure Mode
 
-![Adventure Mode](screenshots/level-select.png)
+![Adventure Mode](screenshots/map-interface.png)
 
 ### Quiz System
 
