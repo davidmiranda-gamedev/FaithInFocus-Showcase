@@ -96,7 +96,7 @@ Available on Android, Windows, and Web platforms.
 
 ## Project Highlights
 
-- Successfully deployed within local church communities
+- Successfully deployed and used within local church communities as a Bible learning application for children and young learners.
 - Designed specifically for children and young learners
 - Combines education, storytelling, and gameplay
 - Cross-platform support for Android, Windows, and Web
