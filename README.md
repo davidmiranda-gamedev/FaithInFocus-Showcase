@@ -107,7 +107,7 @@ Available on Android, Windows, and Web platforms.
 
 Watch the gameplay showcase:
 
-[Demo](https://drive.google.com/file/d/1BGp7RXoxKcmjiXu8kLmdze78QgwiK3ku/view?usp=sharing)
+[Faith_In_Focus_Demo](https://drive.google.com/file/d/1BGp7RXoxKcmjiXu8kLmdze78QgwiK3ku/view?usp=sharing)
 
 ---
 
