@@ -107,7 +107,7 @@ Available on Android, Windows, and Web platforms.
 
 Watch the gameplay showcase:
 
-PASTE_VIDEO_LINK_HERE
+[PASTE_VIDEO_LINK_HERE](https://drive.google.com/file/d/1BGp7RXoxKcmjiXu8kLmdze78QgwiK3ku/view?usp=sharing)
 
 ---
 
