@@ -128,6 +128,22 @@ Watch a short gameplay demonstration showcasing the story mode, quizzes, cutscen
 
 ---
 
+## My Contributions
+
+As the sole developer of Faith In Focus, I was responsible for:
+
+- Game Design
+- UI/UX Design
+- Gameplay Programming
+- Story System Development
+- Quiz System Development
+- Save System Implementation
+- Mini-Game Development
+- Android and Windows Deployment
+- Testing and Optimization
+
+---
+
 ## Future Improvements
 
 - Additional Bible Stories
