@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/mainmenu.png" width="900">
+  <img src="screenshots/main-menu.png" width="900">
 </p>
 
 # Faith In Focus
