@@ -105,9 +105,11 @@ Available on Android, Windows, and Web platforms.
 
 ---
 
-## Gameplay Video
+## Gameplay Demo
 
-Watch the gameplay showcase:
+Watch a short gameplay demonstration showcasing the story mode, quizzes, cutscenes, and mini-games.
+  
+🎥 Faith In Focus Gameplay Demo
 
 [Faith_In_Focus_Demo](https://drive.google.com/file/d/1BGp7RXoxKcmjiXu8kLmdze78QgwiK3ku/view?usp=sharing)
 
