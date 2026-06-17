@@ -1,3 +1,5 @@
+![Faith In Focus](screenshots/main-menu.png)
+
 # Faith In Focus
 
 > A cross-platform Christian educational game designed to help children learn biblical stories through interactive storytelling, quizzes, mini-games, and engaging learning experiences.
