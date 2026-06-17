@@ -119,10 +119,10 @@ Watch a short gameplay demonstration showcasing the story mode, quizzes, cutscen
 
 ## Technologies Used
 
-- Unity
+- Unity Engine
 - C#
-- UI/UX Design
-- Game Design
+- TextMeshPro
+- Unity UI System
 - Educational Game Development
 - PlayerPrefs Save System
 - Android and Windows Build Pipeline
@@ -177,9 +177,9 @@ During development, several technical systems were designed and implemented:
 Software Developer | Unity Game Developer | Web Developer
 
 GitHub:
-https://github.com/davidmiranda-gamedev
+[David Miranda GitHub](https://github.com/davidmiranda-gamedev)
 
 LinkedIn:
-https://www.linkedin.com/in/david-nathaniel-miranda-1432b9274/
+[David Miranda LinkedIn](https://www.linkedin.com/in/david-nathaniel-miranda-1432b9274/)
 
 ---
