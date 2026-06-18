@@ -44,6 +44,23 @@ The application was successfully deployed and adopted within local church commun
 
 ---
 
+## Architecture
+
+The application was built using a modular architecture separating gameplay systems, UI systems, and data management.
+
+Core systems include:
+
+- Story Progression Manager
+- Quiz Manager
+- Save System
+- Mini-Game Framework
+- Scene Navigation System
+- Player Progress Tracking
+
+The project follows reusable component-based development principles within Unity.
+
+---
+
 ## Key Features
 
 ### Interactive Story Mode
@@ -130,19 +147,14 @@ Watch a short gameplay demonstration showcasing the story mode, quizzes, cutscen
 
 ---
 
-## My Contributions
+### Technical Contributions
 
-As the sole developer of Faith In Focus, I was responsible for:
-
-- Game Design
-- UI/UX Design
-- Gameplay Programming
-- Story System Development
-- Quiz System Development
-- Save System Implementation
-- Mini-Game Development
-- Android and Windows Deployment
-- Testing and Optimization
+- Designed and implemented gameplay systems in C#
+- Developed reusable UI architecture using Unity UI
+- Implemented PlayerPrefs save system
+- Built quiz and story progression frameworks
+- Developed cross-platform deployment pipeline
+- Optimized mobile performance for Android devices
 
 ---
 
@@ -167,6 +179,25 @@ During development, several technical systems were designed and implemented:
 - Educational mini-game architecture
 - Cross-platform deployment for Android and Windows
 - Responsive UI scaling across multiple resolutions
+
+---
+
+## Development Timeline
+
+Duration:
+4 Months
+
+Role:
+Solo Developer
+
+Team Size:
+1
+
+Engine:
+Unity
+
+Language:
+C#
 
 ---
 
